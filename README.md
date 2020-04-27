@@ -4,7 +4,7 @@ This project conducts an analysis of the movie industry. We are attempting to ma
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+You will need to have Anaconda Navigator, and some install of Jupyter Notebook in order to view these documents. Keep in mind all data is retrieved from the internet via provided data sets, or web scraping scripts.
 
 ### Prerequisites
 
