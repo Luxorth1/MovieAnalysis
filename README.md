@@ -1,4 +1,4 @@
-# Project Title
+# Movie Industry Analysis
 
 This project conducts an analysis of the movie industry. We are attempting to make business decisions based off the data that is publicaly retrievable. 
 
